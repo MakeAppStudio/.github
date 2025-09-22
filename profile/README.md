@@ -1,12 +1,12 @@
 <div align="center">
   
 <pre>
-███████╗ ███╗   ███╗ █████╗ ██╗  ██╗███████╗     █████╗ ██████╗ ██████╗ 
-██╔════╝ ████╗ ████║██╔══██╗██║ ██╔╝██╔════╝    ██╔══██╗██╔══██╗██╔══██╗
-█████╗   ██╔████╔██║███████║█████╔╝ █████╗      ███████║██████╔╝██████╔╝
-██╔══╝   ██║╚██╔╝██║██╔══██║██╔═██╗ ██╔══╝      ██╔══██║██╔═══╝ ██╔═══╝ 
-███████╗ ██║ ╚═╝ ██║██║  ██║██║  ██╗███████╗    ██║  ██║██║     ██║     
-╚══════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝     ╚═╝     
+███╗   ███╗ █████╗ ██╗  ██╗███████╗     █████╗ ██████╗ ██████╗ 
+████╗ ████║██╔══██╗██║ ██╔╝██╔════╝    ██╔══██╗██╔══██╗██╔══██╗
+██╔████╔██║███████║█████╔╝ █████╗      ███████║██████╔╝██████╔╝
+██║╚██╔╝██║██╔══██║██╔═██╗ ██╔══╝      ██╔══██║██╔═══╝ ██╔═══╝ 
+██║ ╚═╝ ██║██║  ██║██║  ██╗███████╗    ██║  ██║██║     ██║     
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝     ╚═╝   
 </pre>
 
 <h3>🚀 Make App Studio</h3>
@@ -33,10 +33,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
@@ -50,28 +46,18 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 
 ### 📱 Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Objective-C](https://img.shields.io/badge/-ObjectiveC-43853D?logo=apple&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
