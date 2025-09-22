@@ -9,6 +9,10 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝     ╚═╝   
 </pre>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=140&section=header&text=MAKE%20APP%20STUDIO&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=65" alt="Make App Studio banner" />
+</p>
+
 <h3>🚀 Make App Studio</h3>
 <p><strong>World-class development & design team</strong></p>
 
