@@ -46,7 +46,6 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 
 ### 📱 Mobile
@@ -61,8 +60,6 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -77,13 +74,10 @@
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-FF61F6?logo=adobexd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/-AfterEffects-9999FF?logo=adobeaftereffects&logoColor=white)
-![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white)
-![InVision](https://img.shields.io/badge/-InVision-FF3366?logo=invision&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-FF9A00?logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/-Aseprite-FF9A00?logo=aseprite&logoColor=white)
 
 ---
 
